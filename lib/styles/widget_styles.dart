@@ -274,7 +274,7 @@ class MediumButton extends StatelessWidget {
         ),
         child: Text(
           title,
-          style: kBodyMedium12.copyWith(fontSize: 14),
+          style: kBodyMedium12.copyWith(color: Colors.white),
         ),
       ),
     );
